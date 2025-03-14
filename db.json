@@ -1,5 +1,41 @@
 {
-"userinfo":["xh1","xh2"],
-  "name": "1",
-"versionmessage":"1"
+  "userinfo": {
+    "privacy": {
+      "version": "1.0.0",
+      "msg": "0",
+      "isios": 0,
+      "iosU": "domoamfxth4w",
+      "Area": [
+    {
+          "key": "HK",
+          "name": "1",
+          "value": "https://www.baidu.com",
+          "code": "fun"
+        },
+        {
+          "key": "BD",
+          "name": "1",
+          "value": "list",
+          "code": "fester"
+        },
+        {
+          "key": "BR",
+          "name": "1",
+          "value": "happy",
+          "code": ""
+        }
+      ],
+      "Event": [
+        "test",
+        "register"
+      ],
+      "ID": [
+        "testid",
+       "huoul7"
+      ],
+      "quertip": [
+       
+      ]
+    }
+  }
 }
