@@ -2,14 +2,14 @@
   "userinfo": {
     "privacy": {
       "version": "1.0.0",
-      "msg": "0",
+      "msg": "1",
       "isios": 0,
-      "iosU": "domoamfxth4w",
+      "iosU": "t8b2zo0jnk00",
       "Area": [
     {
           "key": "HK",
           "name": "1",
-          "value": "stu",
+          "value": "https://www.baidu.com",
           "code": "fun"
         },
         {
@@ -27,11 +27,43 @@
       ],
       "Event": [
         "test",
-        "register"
+        "register",
+        "Log_in",
+        "Place_an_order",
+        "pay",
+        "firstDepositArrival",
+        "deposit_click",
+        "deposit_success",
+        "first_deposit",
+        "home_view",
+        "login_click",
+        "login_success",
+        "logout_success",
+         "register_success",
+        "login",
+        "deposit",
+          "redeposit",
+        "withdraw"
       ],
       "ID": [
         "testid",
-       "huoul7"
+       "rxxy1n",
+        "ld4uxe",
+        "xjwgqw",
+        "o9wrok",
+        "b8rmmt",
+        "jdntfi",
+        "gque17",
+        "mwnvnx",
+        "7znt4y",
+        "rusbjn",
+        "vmvfqc",
+        "wi5mt8",
+        "z4pcki",
+        "wm3x0i",
+        "1owaer",
+        "b6sq6s",
+        "ntbqmy",
       ],
       "quertip": [
        
